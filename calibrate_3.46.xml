@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Avg_Reprojection_Error>3.4650225292650433e-01</Avg_Reprojection_Error>
+<FOV_X>6.6802416480162904e+01</FOV_X>
+<FOV_Y>4.0333627023496994e+01</FOV_Y>
+<Focal_Length>3.4074257518308952e+00</Focal_Length>
+<Aspect_Ratio>9.8413860073033310e-01</Aspect_Ratio>
+<Principal_Point_X>1.3235841693060195e+00</Principal_Point_X>
+<Principal_Point_Y>3.2852822571031681e+00</Principal_Point_Y>
+<Camera_Matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    9.0864686715490541e+02 0. 3.5295577848160525e+02 0.
+    8.9423445639982947e+02 6.5705645142063361e+02 0. 0. 1.</data></Camera_Matrix>
+<Distortion_Coefficients type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -1.6044286637763479e-02 2.7399366123959373e-01
+    -6.7692955819020576e-03 2.1603403081910796e-03
+    -5.3380633651557274e-01</data></Distortion_Coefficients>
+</opencv_storage>
